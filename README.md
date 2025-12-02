@@ -13,9 +13,7 @@ This repository is a compilation of files used to train two HuggingFace models: 
 4. Review the output files to see how many outputs compiled and passed the testbenches. 
 
 ## Additional Resources
-If you'd like, you may use the files [TODO: input file names] to create a GUI of the model.
-
-
+If you'd like, you may use the files [LLM_UI_gardio2.0.py] to create a GUI of the model.
 
 https://github.com/user-attachments/assets/9409584c-3202-440d-a9f0-b5f33acea905
 
