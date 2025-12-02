@@ -14,3 +14,8 @@ This repository is a compilation of files used to train two HuggingFace models: 
 
 ## Additional Resources
 If you'd like, you may use the files [TODO: input file names] to create a GUI of the model.
+
+
+
+https://github.com/user-attachments/assets/9409584c-3202-440d-a9f0-b5f33acea905
+
