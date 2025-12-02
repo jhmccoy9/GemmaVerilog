@@ -138,3 +138,4 @@ output_text.pack(fill="both", expand=True)
 
 # Start the application
 root.mainloop()
+
